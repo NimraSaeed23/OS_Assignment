@@ -3,7 +3,8 @@ This repository contains the solutions for an Operating Systems (OS) assignment.
 Below are the details of the assignment and its solutions.
 
 # Question 1:
-a) Find out the Linux kernel version of your system using the command on the terminal. 
+a) Find out the Linux kernel version of your system using the command on the terminal.
+
 b) Find out the distribution name and version of your operating system using the command on the terminal. 
 
 # Question 2:
@@ -20,6 +21,9 @@ What does POSIX stand for? Write a short description of POSIX.
 Various Operating systems use various structures such as Monolithic, Layered or Microkernel. Give at least five examples of operating systems for each of the structure.
 
 Monolithic Structure: Unix, Linux, Open VMS, XTS-400, z/TPF, BSD, SunOS, AIX, and MULTICS
+
 Layered Approach Structure: CP/M and DOS
+
 Micro-kernel Structure: QNX, Symbian, L4Linux, Singularity, K42, Mac OS X, Integrity, PikeOS, HURD, Minix, and Coyotos.
+
 Client-Server Model: DNS (Domain Name Systems), web browsers and web servers, and FTP (file transfer protocol) clients.
